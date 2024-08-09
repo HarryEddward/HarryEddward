@@ -8,7 +8,7 @@ Adrian Martin Martorell
 .. raw:: html
     <p align="center">
       <a href="https://medium.com/@he0780070/how-to-become-the-best-self-taught-programmer-ba5d72d3be4e">
-      <img src="https://github.com/HarryEddward/HarryEddward/blob/main/media/history.png">
+      <img width="120px" height="120px"  src="https://github.com/HarryEddward/HarryEddward/blob/main/media/history.png">
       </a>
     </p>
 
