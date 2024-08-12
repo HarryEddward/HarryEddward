@@ -15,6 +15,14 @@ The best web developer in the world with 17 years old not recognized
 
 ==============
 
+.. raw:: html
+  <a href="https://pypi.org/user/AdriaMartin/">
+      <img src="https://img.shields.io/badge/PyPi-AdriaMartin-blue?style=flat-square&logo=pypi&logoColor=white">
+  </a>
+
+
+==============
+
 
 .. raw:: html
 
@@ -24,3 +32,4 @@ The best web developer in the world with 17 years old not recognized
       <a href="https://gravatar.com/au7812ooae32"><b>Profile</b></a> ·
       <a href="https://github.com/HarryEddward/to_literal"><b>Github</b></a>
     </p>
+
