@@ -22,7 +22,7 @@ The best web developer in the world with 17 years old not recognized
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-.. image:: https://github-readme-streak-stats.herokuapp.com/?user=HarryEddward
+.. image:: https://github-readme-streak-stats.herokuapp.com/?user=HarryEddward&layout=compact&theme=vision-friendly-dark
    :alt: My GitHub Stats
    :align: center
 
