@@ -25,6 +25,17 @@ The best web developer in the world with 17 years old not recognized
    :align: center
 
 
+------
+
+
+.. _GitHub Stats: https://github.com/anuraghazra/github-readme-stats
+
+.. image:: https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark
+   :alt: Top Languages
+   :target: https://github.com/anuraghazra/github-readme-stats
+   :align: center
+
+
 
 ==============
 
