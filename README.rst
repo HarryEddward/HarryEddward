@@ -17,7 +17,7 @@ The best web developer in the world with 17 years old not recognized
 
 .. raw:: html
   <a href="https://pypi.org/user/AdriaMartin/">
-      <img src="https://img.shields.io/badge/PyPi-AdriaMartin-blue?style=flat-square&logo=pypi&logoColor=white">
+      <img src="https://img.shields.io/badge/PyPi-adriamartin-blue?style=flat-square&logo=pypi&logoColor=white">
   </a>
 
 
