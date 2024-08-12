@@ -16,8 +16,8 @@ The best web developer in the world with 17 years old not recognized
 ==============
 
 .. raw:: html
-  <a href="https://pypi.org/user/AdriaMartin/">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=HarryEddward&style=flat-square&color=blue" alt=""/>
+
 
 
 ==============
