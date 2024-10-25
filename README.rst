@@ -5,12 +5,6 @@ Adrian Martin Martorell
 The best web developer in the world at my 17 years old not recognized
 ========================
 
-Aspirations
--------------
-- Become a millonarie person with my economy and expert in general sales skills
-- Be one the highest rank member in a group in the special forces
-- Work as a proggramer in CIA, or in a secret intellisense agency save lives from the secret
-
 .. raw:: html
 
     <p align="center">
