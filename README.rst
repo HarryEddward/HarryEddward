@@ -1,6 +1,5 @@
 Adrian Martin Martorell
 =======================
-`<https://adrianmartinmartorell.onrender.com>`_
 
 My biggest project following the steps as a software architect developer, at 17 years old
 ========================
