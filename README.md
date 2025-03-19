@@ -16,6 +16,11 @@
 
 ![Proyecto nuevo (14)](https://github.com/user-attachments/assets/63baa20d-dc62-48b7-9c45-54ab6a32aef1)
 
+![Proyecto nuevo (17)](https://github.com/user-attachments/assets/0c6f6832-cea9-4b57-9728-9a31d539ab14)
+
+![Proyecto nuevo (18)](https://github.com/user-attachments/assets/1d78f7f2-e1e0-4acb-854b-12efda910c4f)
+
+![Proyecto nuevo (19)](https://github.com/user-attachments/assets/4a70c4d8-458e-4c5d-8430-5bcef46ac1c2)
 
 ![Proyecto nuevo (12)](https://github.com/user-attachments/assets/3dcacb04-1f6e-4dfd-ba51-aab307a0dc78)
 
