@@ -22,6 +22,8 @@
 
 ![Proyecto nuevo (19)](https://github.com/user-attachments/assets/4a70c4d8-458e-4c5d-8430-5bcef46ac1c2)
 
+![Proyecto nuevo (21)](https://github.com/user-attachments/assets/e6a18a7b-d4ac-42c7-bf64-eb7905603216)
+
 ![Proyecto nuevo (12)](https://github.com/user-attachments/assets/3dcacb04-1f6e-4dfd-ba51-aab307a0dc78)
 
 ![Proyecto nuevo (13)](https://github.com/user-attachments/assets/23eceeec-0d35-4034-8cfb-23fe7e71ebc5)
